@@ -1,4 +1,4 @@
-# Sistema-Contable
+# Sistema-Contable <br>
 este codigo esta simulando una tienda de tecnologia basico
 --------------------------------------------------------------------
 Tienda de tecnologia
