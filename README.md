@@ -1,4 +1,6 @@
-# Sistema-Contable <br>
+#<stnong> Sistema-Contable </stnong> 
+<br>
+<br>
 este codigo esta simulando una tienda de tecnologia basico
 --------------------------------------------------------------------
 Tienda de tecnologia
@@ -18,3 +20,4 @@ Lenguajes de programacion: Python, Java, Html y JavaScript.
 Porque elegi programacion es la facilidad de hoy en dia que puedes estudiar esta carrera y tienes 
 mas hermanientas que te facilitan aprender y tambien porque de niño me gustaba mucho.
 ------------------------------------------------------------------------------------------
+<img="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
